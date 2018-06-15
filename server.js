@@ -26,7 +26,7 @@ app.get('/bad',(req,res) => {
     res.send({
         code: 69,
         status: 'error message',
-        description: 'bah, juste un test'
+        description: 'bah, juste ughjghjgjgjfgn test'
     });
 });
 
